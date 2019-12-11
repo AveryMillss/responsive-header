@@ -42,14 +42,14 @@ ul {
 
 nav ul {
   align-items: center;
-  font-size: ;
+  font-size: 1.125rem;
 }
 
 nav a {
   text-decoration: none;
   color: #6c8fe0;
   padding: .5em .75em;
-  white-space: normal;
+  white-space: nowrap;
 }
 
 li {
@@ -117,7 +117,7 @@ nav a:hover {
   }
 
   nav li {
-    width: 24%;
+    width: 25%;
     float: right;
   }
 
